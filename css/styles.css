@@ -259,7 +259,7 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
-svg {
+.tech-icon {
   width: 3.5rem;
   height: auto;
 }
