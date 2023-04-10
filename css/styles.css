@@ -259,6 +259,11 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+svg {
+  width: 3.5rem;
+  height: auto;
+}
+
 pre,
 code,
 kbd,
