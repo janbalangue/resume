@@ -203,6 +203,10 @@ ul ol {
   margin-bottom: 0;
 }
 
+ul {
+  list-style-type: square;
+}
+
 dt {
   font-weight: 700;
 }
